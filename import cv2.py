@@ -5,7 +5,7 @@ import numpy as np
 # Inicializa Pygame y carga la música
 pygame.init()
 pygame.mixer.init()
-pygame.mixer.music.load("cancion.mp3")  # Reemplaza "cancion.mp3" con la ubicación de tu archivo de música
+pygame.mixer.music.load(C:\Users\ASUS\Music\Contigo-Sabino ft Sharif.mp3)  # Reemplaza "cancion.mp3" con la ubicación de tu archivo de música
 
 # Inicializa la cámara y configura el reconocimiento de gestos con OpenCV
 cap = cv2.VideoCapture(0)
